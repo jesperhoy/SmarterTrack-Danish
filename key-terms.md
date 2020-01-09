@@ -9,6 +9,7 @@ announcement | bekendtgørelse
 assign | tildel
 avatar | avatar
 body | beskrivelse
+canned reply | dåsesvar
 chat | chat
 community | diskussionsforum
 contribution | bidrag
@@ -16,6 +17,7 @@ draft | kladde
 event | hændelse
 featured | fremhævet
 form | formular
+idle | inaktiv
 instant message | direkte besked
 item | element
 knowledge base | vidensbase
