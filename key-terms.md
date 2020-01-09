@@ -22,9 +22,11 @@ knowledge base | vidensbase
 live chat | live chat
 post (community) | indlæg
 rating | bedømmelse
+resolution | løsning
 review | gennemgå
 set | indstil
 stale | aldrende
+survey | spørgeskema
 tag | nøgleord
 ticket | supportsag
 ticket number | sagsnr.
