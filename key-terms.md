@@ -4,14 +4,17 @@ English (en) | Danish (da)
 --------|------------
 acting | handlende
 agent | repræsentant
-alert | alarm
+alert | advarsel
 announcement | bekendtgørelse
 assign | tildel
 avatar | avatar
 body | beskrivelse
+call log | opkaldsresumé 
 canned reply | dåsesvar
 chat | chat
 community | diskussionsforum
+community thread | forumtråd
+configure | Opsætte
 contribution | bidrag
 draft | kladde
 event | hændelse
@@ -22,13 +25,16 @@ instant message | direkte besked
 item | element
 knowledge base | vidensbase
 live chat | live chat
+manage | administrer
+management interface | Support administration
 post (community) | indlæg
 rating | bedømmelse
 resolution | løsning
 review | gennemgå
 set | indstil
-stale | aldrende
+stale | støvet
 survey | spørgeskema
-tag | nøgleord
+tag | tag
 ticket | supportsag
 ticket number | sagsnr.
+time log | tidsforbrug
