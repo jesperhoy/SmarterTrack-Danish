@@ -4,7 +4,7 @@ Danish U.I. translation for  [SmarterTrack](https://www.smartertools.com/smarter
 
 Note: This is work in progress - the translation is **NOT COMPLETE** yet. Items not yet translated appear in English.
 
-My primary goal is to translate the end-user facing parts - not necessarily the management interface. However, since both sides shared the same translation file, a lot of the management interface has already been translated too.
+My primary goal is to translate the end-user facing parts - not necessarily the management interface. However, since both sides share the same translation file, a lot of the management interface has already been translated too.
 
 I have also created and released a Windows desktop tool "SmarterTrackTranslator" to ease the translation work. See https://github.com/jesperhoy/SmarterTrackTranslator
 

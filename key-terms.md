@@ -16,9 +16,12 @@ community | diskussionsforum
 community thread | forumtråd
 configure | Opsætte
 contribution | bidrag
+dashboard | betjeningspanel
+display name | synligt navn
 draft | kladde
 event | hændelse
 featured | fremhævet
+folder | mappe
 form | formular
 idle | inaktiv
 instant message | direkte besked
