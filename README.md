@@ -24,7 +24,7 @@ Contributions are most welcome. No contribution is too big or too small.
 
 Fork this repository, clone locally, make your updates, commit, push, create a pull request in GitHub...
 
-The "da.translate.xml" file contains only the items that have been translated to far.
+The "da.translation.xml" file contains only the items that have been translated to far.
 
 The "da.xml" file is a combined file (Danish/English) for use with SmarterTrack.
 
